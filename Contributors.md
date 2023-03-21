@@ -3178,4 +3178,5 @@
 - [Maurits N] (https://github.com/mauritsn)
 - [Zeatlan](https://github.com/Zeatlan)
 - [Noi Vu Duc](https://github.com/noivuduc)
+- [linkthe3rd](https://github.com/linkth3rd)
 <!-- prettier-ignore-end -->
